@@ -7,3 +7,4 @@ pytz==2020.1
 requests
 sqlparse
 urllib3
+gunicorn
