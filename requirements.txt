@@ -1,10 +1,4 @@
-asgiref
 certifi
-chardet
 Django
-idna
-pytz
 requests
-sqlparse
-urllib3
 gunicorn
